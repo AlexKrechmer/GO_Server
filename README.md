@@ -60,7 +60,3 @@ go-server/
 │   └── ...            # Other static assets
 License
 MIT
-
-Edit
-
-Want me to also toss in an example `form.html` in the README so anyone cloning your repo knows how to hit the `/form` endpoint without messing with curl?
